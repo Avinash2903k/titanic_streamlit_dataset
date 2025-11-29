@@ -1,0 +1,10 @@
+import pickle
+
+with open("model.pkl", "rb") as f:
+    model_data = pickle.load(f)
+
+model = model_data["model"]
+le_sex = model_data["le_sex"]
+le_emb = model_data["le_emb"]
+
+print("Model loaded!")
