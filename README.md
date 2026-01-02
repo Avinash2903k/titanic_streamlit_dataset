@@ -1,1 +1,2 @@
 # titanic_streamlit_dataset
+Titanic Streamlit Dataset is a beginner-friendly Python project that turns the famous Titanic machine learning dataset into an interactive web app using Streamlit. The app lets users explore passenger data and make survival predictions based on features like age, gender, class, and fare. It’s useful for learning how to build, visualize, and deploy simple data-driven applications with Python and Streamlit.
